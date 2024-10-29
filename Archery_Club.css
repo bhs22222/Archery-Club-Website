@@ -1,0 +1,51 @@
+.hero-image{
+    background-image: url("./images/IMG_0606.jpg");
+    height:350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section.header{
+    background-color:#003A2C;
+}
+img.Logo{
+    width: 13vw;
+    margin: 0.5%;
+}
+.hero-text{
+    color: #ffffff;
+    text-align: center;
+    width:80%;
+    font-size: 7vw;
+    margin-top: 0;
+    position: absolute;
+    top: 180px;
+}
+.Info-intro{
+    color:#ffffff;
+    background-color:#003A2C;
+    margin: 0;
+    font-size: 1.7vw;
+}
+p{
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.When-and-where-club-take-place{
+    font-size: 1.7vw;
+    margin: 0;
+    background-color:#003A2C;
+    color:#ffffff;
+}
+p{
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.Teacher-in-charge{
+    font-size: 1.7vw;
+    margin: 0;
+    background-color:#003A2C;
+    color:#ffffff;
+}
